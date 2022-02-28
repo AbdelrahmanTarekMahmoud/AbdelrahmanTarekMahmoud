@@ -6,4 +6,11 @@
 ------------------------------------------------------------------------------------------------------------------------------
 # I'm currently Student at Faculty of Engineering of AinShams (ASU) , Studying at Communication And electrons department
 ------------------------------------------------------------------------------------------------------------------------------
-
+ # Currently studying : 
+                     .Embedded Systems
+                     .AUTORSAR
+                     .Python
+------------------------------------------------------------------------------------------------------------------------------
+# Contact with me 
+        facebook : https://www.facebook.com/abdelrhman.tarek.127/
+        linkedin :https://www.linkedin.com/in/abdelrahman-tarek-mahmoud-82065a219/
