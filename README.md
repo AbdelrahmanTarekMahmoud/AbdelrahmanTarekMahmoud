@@ -1,6 +1,6 @@
 
 # I'm Abdelrahman Tarek Mahmoud 
-## I'm currently Student at Faculty of Engineering of AinShams (ASU) , Studying at Communication And electrons department 4th Year
+* I'm currently Student at Faculty of Engineering of AinShams (ASU) , Studying at Communication And electrons department 4th Year
 ## Currently studying : 
  
   * Embedded Systems
