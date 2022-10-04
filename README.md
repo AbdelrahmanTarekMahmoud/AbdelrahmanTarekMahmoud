@@ -10,6 +10,6 @@
   * Modern C++
   * DataStructures And Algorithms
 ------------------------------------------------------------------------------------------------------------------------------
-# Contact with me 
-        * Facebook : https://www.facebook.com/abdelrhman.tarek.127/
-        * Linkedin :https://www.linkedin.com/in/abdelrahman-tarek-mahmoud-82065a219/
+# Contact
+  * Facebook : https://www.facebook.com/abdelrhman.tarek.127/
+  * Linkedin :https://www.linkedin.com/in/abdelrahman-tarek-mahmoud-82065a219/
