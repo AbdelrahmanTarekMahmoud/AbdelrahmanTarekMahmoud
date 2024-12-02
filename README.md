@@ -3,9 +3,8 @@
 * Graduated from Faculty of Engineering of AinShams (ASU) ,  with a degree in Communication And electrons
 ## Currently studying : 
   * Problem Solving
-  * QT GUI
-  * Socket programming
-  * Testing
+  * C#
+  * API
   * Modern C++
   * DataStructures And Algorithms
 ## Contact
